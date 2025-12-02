@@ -1,0 +1,1 @@
+export default function LiuEvents(){return (<div>Events</div>);}
