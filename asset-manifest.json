@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/liu-event-management-system/static/js/main.15a1e79a.js",
+    "main.js": "/liu-event-management-system/static/js/main.db08ad1a.js",
     "index.html": "/liu-event-management-system/index.html",
-    "main.15a1e79a.js.map": "/liu-event-management-system/static/js/main.15a1e79a.js.map"
+    "main.db08ad1a.js.map": "/liu-event-management-system/static/js/main.db08ad1a.js.map"
   },
   "entrypoints": [
-    "static/js/main.15a1e79a.js"
+    "static/js/main.db08ad1a.js"
   ]
 }
