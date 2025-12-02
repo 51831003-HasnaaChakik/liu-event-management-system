@@ -1,0 +1,1 @@
+export default function LiuMenu(){return (<div>Liu Menu</div>);}
